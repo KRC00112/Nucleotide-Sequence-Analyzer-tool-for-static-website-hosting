@@ -1,4 +1,4 @@
-# Nucleotide Sequence Analyzer tool for static website hosting using AWS S3 and CloudFront 
+# Nucleotide Sequence Analyzer tool
 
 ---
 
