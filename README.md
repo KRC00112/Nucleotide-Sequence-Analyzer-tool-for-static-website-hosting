@@ -12,10 +12,10 @@ The application analyzes biological nucleotide sequences and determines whether 
 
 The deployment architecture ensures:
 
-- ✅ Private origin storage (not publicly accessible)
-- ✅ Fast global delivery through Amazon CloudFront edge caching
-- ✅ Secure resource access using origin access restrictions
-- ✅ Reduced origin requests through caching, improving performance and efficiency
+-  Private origin storage (not publicly accessible)
+-  Fast global delivery through Amazon CloudFront edge caching
+-  Secure resource access using origin access restrictions
+-  Reduced origin requests through caching, improving performance and efficiency
 
 ---
 
