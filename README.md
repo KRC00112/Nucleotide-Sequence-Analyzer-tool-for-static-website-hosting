@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://d12wvyyv0zv3id.cloudfront.net/index.html)
 
-## 📘 Project Overview
+## Project Overview
 
 This project demonstrates how to deploy a static web application using a secure cloud architecture that prevents direct access to storage while improving performance through caching and edge delivery.
 
@@ -20,7 +20,7 @@ The deployment architecture ensures:
 ---
 
 
-## ⚙️ Requirements
+## Requirements
 
 ### Frontend
 - React (Vite) — component-based UI architecture
@@ -39,7 +39,7 @@ The deployment architecture ensures:
 - Git & GitHub
 
 ---
-## 🏛 System Architecture & Request Flow
+## System Architecture & Request Flow
 
 The following diagram illustrates the secure delivery pipeline for the static website, utilizing Amazon CloudFront as a CDN and Amazon S3 as the private origin.
 
@@ -59,7 +59,7 @@ This project implements a Least-Privilege Security Model by disabling all public
 
 ---
 
-##  🏗 Implementation
+##  Implementation
 
 ### 1. Build Frontend Application
 Created a React application using Vite and implemented DNA/RNA sequence analysis logic.
@@ -88,7 +88,7 @@ Created a React application using Vite and implemented DNA/RNA sequence analysis
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 ### Key outcomes
 
@@ -105,7 +105,7 @@ Created a React application using Vite and implemented DNA/RNA sequence analysis
 
 ---
 
-## 🤝 Credits
+## Credits
 
 - **ag-charts-react & ag-charts-enterprise** — Used for the Amino Acid Distribution bar chart. [AG Charts](https://www.ag-grid.com/charts/react/bar-series/)
 - **react-donut-chart** — Used for the Nucleotide Distribution donut chart. [React Donut Chart](https://www.npmjs.com/package/react-donut-chart)
